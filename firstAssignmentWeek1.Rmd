@@ -17,3 +17,5 @@ Find the mean of the vector you input using the mean function. enter your code c
 ```{r}
 x <- mean(data1)
 ```
+
+This is a test.
